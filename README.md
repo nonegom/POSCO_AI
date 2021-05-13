@@ -1,2 +1,2 @@
-# POSCO_AI
-POSCO 청년 AI빅데이터 아카데미 AI주 소스데이터 입니다. 
+# POSCO_AI_ACADEMY
+POSCO AI빅데이터 아카데미 13기 AI파트
